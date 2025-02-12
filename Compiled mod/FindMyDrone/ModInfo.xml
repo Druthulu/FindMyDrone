@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<Name value="FindMyDrone" />
+  <DisplayName value="Find My Drone" />
+  <Description value=" /drone in chat replies drone location. Server console: drone manager will list online and offline players drones location similar to VehicleManager" />
+	<Author value="McTaco" />
+	<Version value="1.2.27.1" />
+</xml>

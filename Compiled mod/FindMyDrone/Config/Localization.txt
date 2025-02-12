@@ -1,0 +1,3 @@
+Key,English
+drone_loc,"[[6699CC]DMV[-]] Your Drone Location: {0}"
+drone_none,"[[CC3333]DMV[-]] You have no active drones"
