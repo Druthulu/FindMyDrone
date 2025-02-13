@@ -1,5 +1,8 @@
-# FindMyDrone
+# FindMyDrone (Dedicated Server)
  locate your drone easily
+
+
+Dedicated Server only
 
  '/drone' in chat replies drone location. 
 
