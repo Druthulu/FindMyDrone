@@ -7,8 +7,8 @@
     <ProjectGuid>{F392134A-E40B-451B-8ADE-7B5D1A2E837F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DroneManagerVerbosity</RootNamespace>
-    <AssemblyName>DroneManagerVerbosity</AssemblyName>
+    <RootNamespace>FindMyDrone</RootNamespace>
+    <AssemblyName>FindMyDrone</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -62,7 +62,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DroneManagerVerbosity.cs" />
+    <Compile Include="FindMyDrone.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

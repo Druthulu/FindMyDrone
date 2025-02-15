@@ -2,7 +2,7 @@
 <xml>
 	<Name value="FindMyDrone" />
   <DisplayName value="Find My Drone" />
-  <Description value=" /drone in chat replies drone location. Server console: drone manager will list online and offline players drones location similar to VehicleManager" />
+  <Description value=" /dudewheresmydrone or /drone in chat replies drone location. /dronefix only for bjorked drones to restore position" />
 	<Author value="McTaco" />
-	<Version value="1.2.27.1" />
+	<Version value="1.2.27.2" />
 </xml>
